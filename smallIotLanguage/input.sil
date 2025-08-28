@@ -1,0 +1,15 @@
+device sensor at "192.168.2.21"
+
+var = ask sensor temperature
+
+; test comment hhihidfijbndsiupbn
+if var < 30
+{
+    turn sensor on 13
+}
+else
+{
+    turn sensor off 13
+}
+
+print sensor "Gate 13"

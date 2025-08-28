@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ANTLR4 generated files
+*.interp
+*.tokens
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp

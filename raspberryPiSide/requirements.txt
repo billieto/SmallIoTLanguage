@@ -1,0 +1,1 @@
+pip install gpiozero Flask sense-emu
